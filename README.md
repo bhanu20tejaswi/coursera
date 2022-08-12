@@ -1,2 +1,3 @@
 # coursera
-github learning
+git hub learning
+I am editing the README file. Adding some more details about the project description.
